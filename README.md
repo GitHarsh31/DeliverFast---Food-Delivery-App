@@ -1,4 +1,4 @@
-# DeliverFast---Food-Delivery-App
+# DeliverFast---Food-Delivery-App 🚴‍♀️
 •	Designed a mobile-based food delivery app on Figma focused on user-friendly ordering experience.
 <br>
 •	Created a minimalistic and modern UI providing customers with a hassle-free, premium experience.
